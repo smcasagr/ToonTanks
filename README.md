@@ -2,7 +2,7 @@
  
 ### Project made as part of GameDev.tv game course
 
-In this simple game, the objective of the player is destroy the cannon towers without get destructed by them.
+In this simple game, the objective of the player is to destroy the cannon towers without get destructed by them.
 
 The main objective of this project is to learn the basics of C++ development in the Unreal Engine 5 system.
 
